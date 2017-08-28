@@ -7,6 +7,7 @@ Created on Thu Aug 24 15:07:37 2017
 
 #创建check类
 class check():
+    
     #连接数据库
     def __init__(self, conn, cur):
         self.conn = conn
