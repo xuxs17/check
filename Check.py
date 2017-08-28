@@ -68,6 +68,7 @@ class check():
         wrong = list(map(str,wrong))
         print(usid)
         print(wrong)
+        
     #查找出错人员姓名
     def checkName(self,cur):
         us = list(map(str,usid))
