@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug 24 15:34:19 2017
-
-@author: changjin
+@author: xuxs17
 """
 
 import pyodbc
