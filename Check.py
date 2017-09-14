@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug 24 15:07:37 2017
-
-@author: changjin
+@author: xuxs17
 """
 
 #创建check类
